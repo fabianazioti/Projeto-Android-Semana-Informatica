@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20sp"
+    android:background="@color/backgroundAc">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PALESTRANTES"
+        android:id="@+id/botao_ag_palestrantes"
+        android:background="@color/btnRegisVerde"
+        android:textColor="@color/branco"
+        android:layout_marginTop="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CURSOS"
+        android:id="@+id/botao_ag_cursos"
+        android:background="@color/btnRegisVerde"
+        android:textColor="@color/branco"
+        android:layout_marginTop="10dp"
+
+        />
+
+</LinearLayout>

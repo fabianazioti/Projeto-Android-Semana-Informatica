@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnCount="2"
+            android:padding="10dp">
+            <Button
+                android:id="@+id/facebook_ca"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/ca"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Centro Academico"
+                android:layout_height="wrap_content"
+                android:padding="10dp"/>
+            <Button
+                android:id="@+id/facebook_cc"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/ca"
+                android:paddingTop="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Ciencia da Computacao"/>
+
+        </GridLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>
