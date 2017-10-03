@@ -5,5 +5,5 @@ Trabalho Final Disciplina Tópicos Especiais - Android.
 
 O aplicativo permite de forma geral:
 * Realizar o cadastro e login no app.
-* Visualizar a agenda cursos e palestras.
+* Visualizar a agenda de cursos e palestras.
 * Também é possível aos usuários logados realizar o cadastro nos cursos disponíveis.
