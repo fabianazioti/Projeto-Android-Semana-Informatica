@@ -1,7 +1,7 @@
-# Projeto-Android-Semana-Informatica
+## Projeto-Android-Semana-Informatica
 Trabalho Final Disciplina Tópicos Especiais - Android. 
 
-## Aplicativo do Evento Semana de Informática do IFSULDEMINAS.
+### Aplicativo do Evento Semana de Informática do IFSULDEMINAS.
 
 O aplicativo permite de forma geral:
 * Realizar o cadastro e login no app.
